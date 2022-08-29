@@ -1,0 +1,14 @@
+<svg id="search_by_number" data-name="search by number" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc85a"/>
+      <stop offset="1" stop-color="#f90"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_333" data-name="Path 333" d="M10,0H46A10,10,0,0,1,56,10V46A10,10,0,0,1,46,56H10A10,10,0,0,1,0,46V10A10,10,0,0,1,10,0Z" fill="url(#linear-gradient)"/>
+  <path id="search" d="M25.661,22.6a14.2,14.2,0,1,0-3.053,3.055h0a2.556,2.556,0,0,0,.214.251l8.413,8.413a2.186,2.186,0,1,0,3.092-3.09l-8.413-8.413a2.2,2.2,0,0,0-.251-.219Zm.564-8.4A12.019,12.019,0,1,1,14.205,2.183,12.019,12.019,0,0,1,26.225,14.2Z" transform="translate(10.518 10.767)" fill="#fff"/>
+  <g id="noun_User_4027108" transform="translate(18.091 15.415)">
+    <circle id="Ellipse_41" data-name="Ellipse 41" cx="4.145" cy="4.145" r="4.145" transform="translate(2.764)" fill="#fff"/>
+    <path id="Path_327" data-name="Path 327" d="M17.955,62.364a6.909,6.909,0,0,1,13.818,0Z" transform="translate(-17.955 -46.194)" fill="#fff"/>
+  </g>
+</svg>
